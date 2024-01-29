@@ -1,0 +1,4 @@
+repository "ProjectLaugh@o-mango@cloud.cn"
+  path "/"
+    smartbranch "/main/Mango"    
+     
